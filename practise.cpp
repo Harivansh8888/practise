@@ -1,5 +1,5 @@
 #include<iostream>//including header file for cin and cout//
-using namespace std;
+using namespace std;//Hi maulik i changed your file//
 class sample
 {
 	int a,b;//variable declaration//
